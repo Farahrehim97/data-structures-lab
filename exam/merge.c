@@ -13,9 +13,9 @@ int main()
 	{
 		scanf("%d",&a[i]);
 	}
-	printf("\nEnter the number of elements in second array(sorted)");
+	printf("\nEnter the number of elements in second array");
 	scanf("%d",&n);
-	printf("\nEnter the elements in second array");
+	printf("\nEnter the elements in second array(sorted)");
 	for(int i=0;i<n;i++)
 	{
 		scanf("%d",&b[i]);
